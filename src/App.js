@@ -8,6 +8,7 @@ import MuiTextField from './components/MuiTextField';
 import MuiTypography from "./components/MuiTypography";
 
 function App() {
+  //version 2 comment
   return (
     <div className="App">
      {/* <MuiTypography/> */}
@@ -15,7 +16,8 @@ function App() {
      {/* <MuiTextField/> */}
      {/* <MuiRadio /> */}
      {/* <MuiSelect/> */}
-     <MuiCheckbox/>
+     {/* <MuiCheckbox/> */}
+     
     </div>
   );
 }
